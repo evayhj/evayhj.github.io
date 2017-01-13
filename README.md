@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eva Jin's Website
 
 You can use the [editor on GitHub](https://github.com/evayhj/evayhj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
