@@ -1,35 +1,9 @@
 ## Welcome to Eva Jin's Website
 
-You can use the [editor on GitHub](https://github.com/evayhj/evayhj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-### Assignments
+My name is Eva Jin and I am currently a undergrad student in the major of Statistics at the University of California,Davis. My area of interests is data analysis, especially in big data and data management. I use R to accomplish assignments and projects for all the statistics courses and school research projects. So I am very familiar to this system and I have a great amount of coding experience.141B course has definitely been challenging, and at the same time super beneficial to us students.I have learned Web scraping, accessing APIs, text processing, plotting geographical data, and accessing database through SQLite through Python. All these computing skills definitely can me pursue my career goal.
 
-Here is the final project and the previous assignemnt. 
+### Project
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evayhj/evayhj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is my [Final Project](https://github.com/ChrisJZK/STA-141B-Final-Project/blob/master/STA%20141B%20Final%20Project.ipynb).
