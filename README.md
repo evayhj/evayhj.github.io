@@ -6,7 +6,7 @@ My name is Eva Jin and I am currently a undergrad student in the major of Statis
 
 ### Area of Interest 
 
-My area of interests is data analysis, especially in big data and data management. I want to use skills, technologies, practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning. I will mainly focuses on developing new insights and understanding of business performance based on data and statistical methods. 
+My area of interest is data analysis, especially in big data and data management. I want to use skills, technologies, practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning. I will mainly focuses on developing new insights and understanding of business performance based on data and statistical methods. 
 
 ### Project
 
