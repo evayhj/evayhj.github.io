@@ -11,4 +11,5 @@ My short-term goal is to be a data analyst. I want to use skills, technologies, 
 ### Project
 
 Here is my [Final Project](https://github.com/ChrisJZK/STA-141B-Final-Project/blob/master/STA%20141B%20Final%20Project.ipynb).
+
 Here is my [Course Assignment](https://github.com/evayhj/141B-Course-Assignment/blob/master/assignment6.ipynb)
